@@ -2,9 +2,16 @@
 background-color: lightblue;
 }
 
+.boven {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    color: lightcoral;
+}
+
 .onder {
     display: flex;
     justify-content: center;
-    font-size: xx-large;
-    color: red;
+    font-size: 200px;
+    color: green;
 }
