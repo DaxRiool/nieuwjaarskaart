@@ -1,1 +1,10 @@
+.alles {
+background-color: lightblue;
+}
 
+.onder {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    color: red;
+}
